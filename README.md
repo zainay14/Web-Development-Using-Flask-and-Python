@@ -32,14 +32,6 @@ This project is built to help beginners understand how Flask works as a backend 
 - HTML5 📄
 - CSS3 🎨 (basic styling)
 
-
-### 🔢 Calculator Page
-![Calculator](Results/Calculator Interface.png)
-
-### 📊 WebPage
-![Result](Results/WebPage.png)
-
-
 ### app.py
 Main Flask application file that contains:
 - Routes
@@ -76,4 +68,8 @@ This folder contains all HTML files used by Flask.
 ```bash
 git clone https://github.com/zainay14/Web-Development-Using-Flask-and-Python.git
 
+### 🔢 Calculator Page
+![Calculator](Results/CalculatorInterface.png)
 
+### 📊 WebPage
+![Result](Results/WebPage.png)
