@@ -2,13 +2,11 @@
 
 A beginner-friendly Flask project that demonstrates **core web development concepts using Python**, including routing, dynamic URLs, form handling, and mini web applications like a calculator and student marks system.
 
----
 
 ## Project Overview
 
 This project is built to help beginners understand how Flask works as a backend web framework. It includes multiple routes, HTML templates, GET/POST handling, and basic logic-based applications.
 
----
 
 ## Features
 
@@ -27,8 +25,6 @@ This project is built to help beginners understand how Flask works as a backend 
 - ✅ Success Page (dynamic score)
 - ❌ Fail Page (dynamic score)
 
----
-
 ## Technologies Used
 
 - Python 🐍
@@ -37,7 +33,12 @@ This project is built to help beginners understand how Flask works as a backend 
 - CSS3 🎨 (basic styling)
 
 
-### Folder Description
+### 🔢 Calculator Page
+![Calculator](Results/Calculator Interface.png)
+
+### 📊 WebPage
+![Result](Results/WebPage.png)
+
 
 ### app.py
 Main Flask application file that contains:
@@ -75,4 +76,4 @@ This folder contains all HTML files used by Flask.
 ```bash
 git clone https://github.com/zainay14/Web-Development-Using-Flask-and-Python.git
 
-## 📁 Project Structure
+
