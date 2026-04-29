@@ -58,9 +58,11 @@ This folder contains all HTML files used by Flask.
 - Web-based calculator UI
 - Performs basic arithmetic operations
 
-#### 📄 base.html (optional)
-- Common layout template
-- Used for reusability (navbar, footer, etc.)
+### 🔢 Calculator Page
+![Calculator](Results/CalculatorInterface.png)
+
+### 📊 WebPage
+![Result](Results/WebPage.png)
 
 ## Installation & Setup
 
@@ -68,8 +70,4 @@ This folder contains all HTML files used by Flask.
 ```bash
 git clone https://github.com/zainay14/Web-Development-Using-Flask-and-Python.git
 
-### 🔢 Calculator Page
-![Calculator](Results/CalculatorInterface.png)
 
-### 📊 WebPage
-![Result](Results/WebPage.png)
