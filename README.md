@@ -38,22 +38,54 @@ This project is built to help beginners understand how Flask works as a backend 
 
 ---
 ## Project Structure
-flask-web-development/
+
+flask-web-development
 │
 ├── app.py
 ├── templates/
-│ ├── index.html
-│ ├── calculate.html
-│ ├── result.html
-│ ├── calculator.html
-│ └── (optional) base.html
+│   ├── index.html
+│   ├── calculate.html
+│   ├── result.html
+│   ├── calculator.html
+│   └── base.html (optional)
 └── README.md
+---
+## 📌 Folder Description
+
+### 🐍 app.py
+Main Flask application file that contains:
+- Routes
+- Logic for calculator
+- Logic for student marks system
+- Request handling (GET/POST)
 
 ---
 
-## ⚙️ Installation & Setup
+### 📁 templates/
+This folder contains all HTML files used by Flask.
 
-### 1️Clone the Repository
+#### 📄 index.html
+- Home page
+- Basic UI or landing page
+
+#### 📄 calculate.html
+- Form to input student marks
+- Sends data to Flask backend
+
+#### 📄 result.html
+- Displays the result of student marks calculation
+
+#### 📄 calculator.html
+- Web-based calculator UI
+- Performs basic arithmetic operations
+
+#### 📄 base.html (optional)
+- Common layout template
+- Used for reusability (navbar, footer, etc.)
+
+## Installation & Setup
+
+### Clone the Repository
 ```bash
 git clone https://github.com/zainay14/Web-Development-Using-Flask-and-Python.git
 
